@@ -16,6 +16,5 @@
 
 **OUTPUT OF THE TASK : 1**
 https://onlinegdb.com/VJ9bYe-Ic
-<img width="1859" height="1020" alt="Image" src="https://github.com/user-attachments/assets/eff72880-3dcc-425e-906f-ba04a6437838" />
 
 
